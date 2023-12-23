@@ -8,7 +8,7 @@
             "rate_comment": true,
             
             "update_app" : false,
-            "activate_ads" : false,
+            "activate_ads" : true,
             "activate_banner" : "on",
             "activate_inter" : "on",
             
@@ -66,9 +66,9 @@
             "notification_text": "woow PARKOUR game is here try it now",
             "showrate" : false,
             
-            "Slide_count" : "1",
+            "Slide_count" : "2",
             
-            "active_slider" : false ;
+            "active_slider" : true ;
             
              "first_Slide_firstimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
             "first_Slide_secondtimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif" ,
