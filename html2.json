@@ -301,7 +301,7 @@
     
     "games" : [
         {
-            "name" : "Parkour 3D Version 1",
+            "name" : "Clash Squad",
             "ico" : "https://img.gamedistribution.com/e53b05dab94c40fe846248ad3b649403-512x512.jpeg",
             "link" : "https://html5.gamedistribution.com/e53b05dab94c40fe846248ad3b649403/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Frun_run_3d_challenge&key=y8&value=default",
             "cat" : "Overall",
@@ -358,21 +358,39 @@
         {
             "questions" :
             [
-                { "question" : "q1" },
-                { "question" : "q2" },
-                { "question" : "q3" }
+                { "question" : "Who is the DJ character?" },
+                { "question" : "standard characters with no special abilities. Which are the two characters?" },
+                { "question" : "Who is the first character?" },
+                { "question" : "What is the 2nd card?" },
+                { "question" : "How many animals are there?" },
+                { "question" : "Which of the following is the correct Game genre?" },
+                { "question" : "The game play is fast-paced with each round lasting:" },
+                { "question" : "Who is the DJ character?" },
+                { "question" : "Game was published by Garena for which of the following platform(s)?" }
             ],
             "answers" :
             [
-                { "answer" : "a1" },
-                { "answer" : "a2" },
-                { "answer" : "a3" }
+                { "answer" : "ALOK" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Adam" },
+                { "answer" : "Portugal" },
+                { "answer" : "More" },
+                { "answer" : "Battle Royale" },
+                { "answer" : "20 minutes" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Android and iOS" }
             ],
             "options" :
             [
-                { "option" : "a1" }, { "option" : "ax" }, { "option" : "ac" }, { "option" : "ad" },
-                { "option" : "iu" }, { "option" : "a2" }, { "option" : "po" }, { "option" : "gh" },
-                { "option" : "kp" }, { "option" : "lk" }, { "option" : "km" }, { "option" : "a3" }
+                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Adam and Eve" }, { "option" : "Misha and Maxim" }, { "option" : "Kely and Nikita" }, { "option" : "Adam" },
+                { "option" : "Rafael" }, { "option" : "The monkey king" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Portugal" }, { "option" : "Snowball" }, { "option" : "zombie invasion" }, { "option" : "Classic" },
+                { "option" : "5" }, { "option" : "2" }, { "option" : "7" }, { "option" : "More" },
+                { "option" : "Adventure" }, { "option" : "Role-Playing" }, { "option" : "Battle Royale" }, { "option" : "Simulation" },
+                { "option" : "10 minutes" }, { "option" : "15 minutes" }, { "option" : "20 minutes" }, { "option" : "25 minutes" },
+                { "option" : "Misha and Maxim" }, { "option" : "Adam and Eve" }, { "option" : "Kely and Nikita" }, { "option" : "Hayato and Laura" },
+                { "option" : "Game Boy" }, { "option" : "Android and iOS" }, { "option" : "Linux and Nintendo" }, { "option" : "Sega Mark III" }
             ]
         }
     ],
@@ -381,27 +399,27 @@
         {
             "images" :
             [
-                { "image" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
-                { "image" : "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg" },
-                { "image" : "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg" },
-                { "image" : "https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg" },
-                { "image" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg" }
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/1.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/2.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/3.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/4.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/image/2.jpg" }
             ],
             "answers" :
             [
-                { "answer" : "true" },
-                { "answer" : "true" },
-                { "answer" : "true" },
-                { "answer" : "true" },
-                { "answer" : "true" }
+                { "answer" : "Destiny Guardian" },
+                { "answer" : "Predatory Cobra" },
+                { "answer" : "Destiny Effect" },
+                { "answer" : "Cobra Effect" },
+                { "answer" : "SPAS12" }
             ],
             "options" :
             [
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" }
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "None" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "SPAS12" }
             ]
         }
     ],
