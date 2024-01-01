@@ -52,8 +52,8 @@
 
             "orientation": "landscape",
 
-            "game_name": "Parkour 3D",
-            "game_cover": "https://gamingbeasts.com/wp-content/uploads/2022/02/Parkour-Simulator.jpg",
+            "game_name": "Multi Games",
+            "game_cover": "https://raw.githubusercontent.com/Bennn03/version2/main/couv.png",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
             "game_link": "https://html5.gamedistribution.com/e53b05dab94c40fe846248ad3b649403/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Frun_run_3d_challenge&key=y8&value=default",
 
@@ -70,7 +70,7 @@
             
             "active_slider" : true ;
             
-             "first_Slide_firstimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
+             "first_Slide_firstimage" : "https://raw.githubusercontent.com/Bennn03/version2/main/couv.png",
             "first_Slide_secondtimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif" ,
              "first_Slide_threeimage" : "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif",
             
